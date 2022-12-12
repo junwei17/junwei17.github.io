@@ -2,7 +2,7 @@
   "name": "react-website-smooth-scroll-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://junwei17.github.io",
+  "homepage": "https://junwei17.github.io/resume-website",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
