@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/' component={Home} exact />
+        <Route path={["/" , "/resume-website"]} component={Home} exact />
         <Route path='/Work' component={WorkPage} exact />
       </Switch>
     </Router>
