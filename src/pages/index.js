@@ -10,7 +10,7 @@ import {
   homeObjThree
 } from '../components/InfoSection/Data';
 import Services from '../components/Services';
-import { HashRouter as Router } from "react-router-dom";
+//import { HashRouter as Router } from "react-router-dom";
 
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
@@ -19,7 +19,7 @@ function Home() {
     setIsOpen(!isOpen);
   };
   return (
-    <Router>
+    <>
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <Navbar toggle={toggle} />
       <HeroSection />
@@ -28,7 +28,7 @@ function Home() {
       <InfoSection {...homeObjTwo} />
       <InfoSection {...homeObjThree} />
       <Footer />
-    </Router>
+    </>
   );
 }
 
