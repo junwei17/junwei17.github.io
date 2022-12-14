@@ -1,31 +1,29 @@
 {
   "files": {
     "main.css": "/resume-website/static/css/main.99e75adc.chunk.css",
-    "main.js": "/resume-website/static/js/main.b1ab03cf.chunk.js",
-    "main.js.map": "/resume-website/static/js/main.b1ab03cf.chunk.js.map",
+    "main.js": "/resume-website/static/js/main.e4ab610b.chunk.js",
+    "main.js.map": "/resume-website/static/js/main.e4ab610b.chunk.js.map",
     "runtime-main.js": "/resume-website/static/js/runtime-main.741b4677.js",
     "runtime-main.js.map": "/resume-website/static/js/runtime-main.741b4677.js.map",
-    "static/js/2.9935ebbe.chunk.js": "/resume-website/static/js/2.9935ebbe.chunk.js",
-    "static/js/2.9935ebbe.chunk.js.map": "/resume-website/static/js/2.9935ebbe.chunk.js.map",
+    "static/js/2.aac6fff7.chunk.js": "/resume-website/static/js/2.aac6fff7.chunk.js",
+    "static/js/2.aac6fff7.chunk.js.map": "/resume-website/static/js/2.aac6fff7.chunk.js.map",
     "index.html": "/resume-website/index.html",
-    "precache-manifest.080ba31ac874e1e07f1911401b0c879a.js": "/resume-website/precache-manifest.080ba31ac874e1e07f1911401b0c879a.js",
+    "precache-manifest.eac0ac3e540afa5921397f07ace036ea.js": "/resume-website/precache-manifest.eac0ac3e540afa5921397f07ace036ea.js",
     "service-worker.js": "/resume-website/service-worker.js",
     "static/css/main.99e75adc.chunk.css.map": "/resume-website/static/css/main.99e75adc.chunk.css.map",
-    "static/js/2.9935ebbe.chunk.js.LICENSE.txt": "/resume-website/static/js/2.9935ebbe.chunk.js.LICENSE.txt",
+    "static/js/2.aac6fff7.chunk.js.LICENSE.txt": "/resume-website/static/js/2.aac6fff7.chunk.js.LICENSE.txt",
     "static/media/code2.svg": "/resume-website/static/media/code2.a584f07c.svg",
+    "static/media/grab.png": "/resume-website/static/media/grab.ff4af222.png",
     "static/media/heart.svg": "/resume-website/static/media/heart.5912e885.svg",
     "static/media/hobbies.svg": "/resume-website/static/media/hobbies.213b7696.svg",
     "static/media/img2-modified.png": "/resume-website/static/media/img2-modified.ae38ec0e.png",
     "static/media/ootb.png": "/resume-website/static/media/ootb.3d54d07e.png",
-    "static/media/tgt.png": "/resume-website/static/media/tgt.78920d80.png",
-    "static/media/tsi.png": "/resume-website/static/media/tsi.bfd5f2d3.png",
-    "static/media/uob.png": "/resume-website/static/media/uob.878a6941.png",
     "static/media/video.mp4": "/resume-website/static/media/video.bd42b9b4.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.741b4677.js",
-    "static/js/2.9935ebbe.chunk.js",
+    "static/js/2.aac6fff7.chunk.js",
     "static/css/main.99e75adc.chunk.css",
-    "static/js/main.b1ab03cf.chunk.js"
+    "static/js/main.e4ab610b.chunk.js"
   ]
 }
